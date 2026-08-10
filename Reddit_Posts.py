@@ -61,7 +61,7 @@ for subid in subreddits:
                                         "limit": 100,
                                         "q": "wikipedia",
                                         "sort": "new",
-                                        "restrict_sr": True,
+                                        "restrict_sr": "1",
                                         "before": beforeID,
                                         "show": "all",
                                         "type": "link"
