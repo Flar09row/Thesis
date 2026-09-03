@@ -1,9 +1,3 @@
-"""
-Sources: https://www.reddit.com/r/redditdev/comments/1149d7b/why_doesnt_apimorechildren_return_the_needed_info/
-https://www.reddit.com/r/redditdev/comments/rbr4e1/how_do_you_deal_with_kind_more_links_that_only/
-https://gist.github.com/davestevens/4257bbfc82b1e59eeec7085e66314215?utm_source=chatgpt.com
-"""
-
 import json
 import requests
 
