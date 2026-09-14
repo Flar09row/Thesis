@@ -18,7 +18,7 @@ def counting_posts_and_comments(subreddit):
 
             num_posts += 1
 
-            post.comments.replace_more(limit=None)
+            post.comments.replace_more(limit=1000)
             for comment in post.comments.list():
                 num_com += 1
 
