@@ -21,4 +21,8 @@ The own dataset contains comments from the following posts.
 | ------ | ------ | ------ | ------ | ------ | ------ |
 
 ### Reddit_DailyCountsData.py
-This code gathers all posts published within a specific timeframe from selected subreddits. The comparison is made using a small subset of the "Daily Counts Data" dataset from the paper "https://doi.org/10.1145/3757644". The file of the dataset "Daily Counts Data" can be downloaded via "https://drive.google.com/file/d/14J-jmKaq3HSn7gkL6duhYUWMu8QOOT-0/view?usp=sharing". A description is shown in "https://github.com/behavioral-data/moderator_discourse_public/tree/master".
+This code gathers all posts of 13. September 2026 from the selected subreddits.
+| 2rv00 | 2qsyt | 2uq32 | 2qhnf | 2qh7g | 2rd5t |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+The comparison is made using a small subset of the "Daily Counts Data" dataset from the paper "https://doi.org/10.1145/3757644". The file of the dataset "Daily Counts Data" can be downloaded via "https://drive.google.com/file/d/14J-jmKaq3HSn7gkL6duhYUWMu8QOOT-0/view?usp=sharing". A description is shown in "https://github.com/behavioral-data/moderator_discourse_public/tree/master".
+
