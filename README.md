@@ -22,8 +22,9 @@ The own dataset contains comments from the following posts.
 
 ### Reddit_DailyCountsData.py
 This code retrieves all posts of 13. September 2026 from the selected subreddits. It counts the posts and comments. Furthermore, the attributes of all comments are collected.
-| 2rv00 | 2qsyt | 2uq32 | 2qhnf | 2qh7g | 2rd5t |
-| ----- | ----- | ----- | ----- | ----- | ----- |
+subreddit id | 2rv00 | 2qsyt | 2uq32 | 2qhnf | 2qh7g | 2rd5t |
+| ---------- | ----- | ----- | ----- | ----- | ----- | ----- |
+subreddit name | 24hoursupport | 80smusic | Aliexpress | Buddhism | Ebay | French |
 
 The comparison is made using a small subset of the "Daily Counts Data" dataset from the paper "https://doi.org/10.1145/3757644". The file of the dataset "Daily Counts Data" can be downloaded via "https://drive.google.com/file/d/14J-jmKaq3HSn7gkL6duhYUWMu8QOOT-0/view?usp=sharing". A description is shown in "https://github.com/behavioral-data/moderator_discourse_public/tree/master".
 
